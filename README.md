@@ -1,3 +1,5 @@
-# -Spam_Mail_Prediction-
+Spam Mail Prediction Using Ensemble Learning
+Overview
+Spam emails are a significant problem for individuals and organizations alike. This project aims to predict whether an email is spam or not using ensemble learning techniques. Ensemble learning combines multiple models to improve the accuracy and robustness of predictions.
 
-It is basically a prediction model which can predict whether a mail is spam or not , I have used Linear Regression algorithm of Machine Learning to implement this model.
+Table of Contents
