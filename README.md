@@ -1,4 +1,4 @@
-# Spam Mail Prediction Using Ensemble Learning :
+# Spam Mail Prediction Using Ensemble Learning :  
 I developed a spam mail prediction system using ensemble learning, a technique that combines the strengths of multiple machine learning models to improve prediction accuracy. Here's an overview:
 
 ## Data Collection:
